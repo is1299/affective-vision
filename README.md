@@ -149,8 +149,6 @@ streamlit run app/streamlit_app.py
 
 ## Demo
 
-_Add screenshots or GIF demonstrations here._
-
 Example:
 
 ```markdown
