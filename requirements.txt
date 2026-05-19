@@ -1,0 +1,8 @@
+tensorflow
+opencv-python
+numpy
+pandas
+streamlit
+keras
+mtcnn
+retina-face
